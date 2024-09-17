@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 🚀 Welcome to My Universe of Code! 🌌
 
-### Hi, I'm [Your Name] — a web wizard who brings digital magic to life! 🧙‍♂️✨
+### Hi, I'm Rithwik — a web sorcerer who brings digital magic to life! 🧙‍♂️✨
 
 - 🔭 I’m a **Web Developer Extraordinaire** specializing in **Next.js**, **Node.js**, **Passport.js**, and **Express.js** — the ultimate toolkit for crafting breathtaking web experiences!
 - 🌱 Currently learning how to bend the internet to my will with even more powerful technologies.
