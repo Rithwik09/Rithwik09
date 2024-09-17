@@ -74,5 +74,7 @@ When I'm not coding (which is as rare as a cake without frosting), you'll probab
 
 ## 👀 P.S.
 
-If you're still reading, you're sweet! Let's cook up something amazing together!**Gmail**: ritwikzz14@gmail.com
+If you're still reading, you're sweet! Let's cook up something amazing together! 
+
+**Gmail**:rithwik.chaithu.09@gmail.com
 
