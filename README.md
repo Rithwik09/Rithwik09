@@ -61,8 +61,8 @@ When I'm not coding (which is as rare as a cake without frosting), you'll probab
 
 ## 🌍 Let's Connect:
 
-- **LinkedIn**: www.linkedin.com/in/rithvik-chaitanya-25615116b(#)
-- **Twitter**: www.x.com/Asta_Meliodas(#)
+- **LinkedIn**: www.linkedin.com/in/rithvik-chaitanya-25615116b
+- **Twitter**: www.x.com/Asta_Meliodas
 <!--**Portfolio**: [yourwebsite.com](#) -->
 
 
