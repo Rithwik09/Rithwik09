@@ -1,90 +1,82 @@
 # 🏁 Welcome to My Bakery of Code! 🍰
 
-### Hi, I'm Rithwik — a master baker, but instead of dough, I work with code! 👨‍🍳✨
-
-- 🔭 I’m a **Web Developer Extraordinaire** specializing in **Next.js**, **Node.js**, **Passport.js**, **Express.js**, and **TypeScript** — the finest ingredients for creating mouthwatering web experiences!
-- 🌱 Currently learning to whip up even tastier websites with more powerful technologies like **GraphQL**, **Apollo Server**, and **TensorFlow.js**.
-- 🤔 Looking to collaborate? Let’s bake the internet a better place, one project at a time.
-- 💬 Ask me anything about **Web Development**, **TypeScript**, or how to build a site that's as irresistible as freshly baked cookies!
+### Hi, I'm Rithwik — a master baker, but instead of dough, I knead code into delightful digital treats! 👨‍🍳✨
 
 ---
 
-## 💡 About Me
-I bake high-performance, elegant websites with **Next.js** and create backend goodness using **Node.js** and **Express.js**. I integrate **Passport.js** to make sure only those with the right "recipe" can access the goodies! 🍪
+## 🍪 A Quick Byte About Me
 
-When I'm not coding (which is as rare as a cake without frosting), you'll probably find me leveling up my skills, diving into new frameworks, or brainstorming my next digital masterpiece.
+- 🔭 I’m a **Full-Stack Web Developer** & **AI Enthusiast** specializing in:
+  **Next.js**, **Node.js**, **Express.js**, **TypeScript**, **Python**, and **Machine Learning**.
+- 🌱 Currently learning: **GraphQL**, **Apollo Server**, and diving deeper into **AI/ML with TensorFlow.js**, **scikit-learn**, and **LangChain**.
+- 🤝 Looking to collaborate on AI-integrated web apps, cool dev tools, or open-source contributions.
+- 💬 Ask me about **Web Development**, **AI**, **TypeScript**, or how to create buttery-smooth apps!
 
+---
+
+## 🧠 My Brain’s Kitchen: Web + AI Superpowers
+
+- **Next.js / React** – Interactive UIs baked to perfection 🍮  
+- **Node.js / Express.js** – Backend batter that scales 🛠️  
+- **TypeScript** – Strongly-typed flavor for perfect precision 🎯  
+- **Python** – My go-to language for cooking up AI/ML logic 🐍  
+- **scikit-learn** – Machine learning, minus the headache 🧩  
+- **TensorFlow.js** – Bringing brains to the browser 🧠  
+- **LangChain / OpenAI SDK** – Chatbots and intelligent agents, served fresh 💬  
+- **Pandas / NumPy** – Data slicing like a sushi chef 🍣  
+- **MongoDB / PostgreSQL** – Data stored like grandma's secret recipes 📚  
+- **Docker** – Neatly packaged dishes ready to ship 🚢
+
+---
+
+## 🔧 Tools of the Trade
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🔥 GitHub Stats & Achievements
+
+![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithwik09&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithwik09&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithwik09&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rithwik09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rithwik09&theme=tokyo-night)
+
+---
+
+## 🍰 Featured Projects
+
+- 🔐 [Auth Wizard](https://github.com/Rithwik09/auth-wizard) – Passport.js authentication boilerplate
+- 🤖 [AI ChatBot](https://github.com/Rithwik09/ai-chatbot-demo) – OpenAI SDK-powered support assistant
+- 📊 [ML Paper Analyzer](https://github.com/Rithwik09/exam-paper-ml) – Banking exam analyzer using ML
+- 💬 [Realtime Support Chat](https://github.com/Rithwik09/realtime-chat-support) – Firebase-powered customer chat app
+
+---
+
+## 📫 Let's Connect
+
+- [🌐 Portfolio](#) *(Coming soon, smells amazing already!)*
+- [💼 LinkedIn](https://www.linkedin.com/in/rithvik-chaitanya-25615116b)
+- [🐦 Twitter/X](https://www.x.com/Asta_Meliodas)
+- [📬 Gmail](mailto:rithwik.chaithu.09@gmail.com)
+
+---
+
+> *"First, solve the problem. Then, bake the code."* – John Johnson (and I probably added sprinkles 🍫)
+
+---
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rithwik09&color=blue)
----
-
-## 💼 My Baking Superpowers Include:
-
-- **Next.js** – Baking websites that rise faster than a soufflé in a hot oven! 🍮
-- **Node.js** – Handling backend processes like a seasoned baker rolling out dough. 🛠️
-- **TypeScript** – Adding type safety like a baker perfecting their measurements. 🍞
-- **Passport.js** – No unauthorized "taste tests" here! I secure my apps like a pastry chef guards their secret recipes. 😶‍👩‍😷
-- **Express.js** – Mixing APIs so smooth, it's like the perfect batter. 🍰
-- **MongoDB/PostgreSQL** – Storing data with the precision of a baker arranging decorative flowers on a cake. 🌼
-- **GraphQL** – Querying data as efficiently as a baker’s assembly line.
-
----
-
-## ⚡️ Fun Facts:
-
-- I code faster than cookies disappear at a bake sale. 🍪
-- The command line? It’s my kitchen, and I rule it with a whisk (or a keyboard). 👨‍💻
-- My brain runs on caffeine, TypeScript, and freshly compiled code. ☕️💻
-- I love exploring new frameworks and turning complex problems into deliciously simple solutions. 
-
----
-
-## 🛠️ Tools of the Trade:
-
-- **Visual Studio Code** – My digital kitchen, where all the magic happens.
-- **Git** – Committing code like a baker commits to the perfect recipe.
-- **Postman** – Testing APIs as quickly as I taste-test a fresh batch of cupcakes!
-- **Vercel/Heroku** – Deploying apps to the cloud like I'm frosting a towering cake. 🍰
-- **Prisma** – Shaping data models with the precision of a cake decorator. 🍒
-- **Apollo Server** – Crafting GraphQL APIs with the finesse of a chocolatier. 🍩
-- **Docker** – Packing apps like neatly boxed macarons. 🍯
-
----
-
-### 🧁 Tech Stack
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithwik09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithwik09&layout=compact&theme=tokyonight)
-
----
-
-## 🌍 Let's Connect:
-
-- **LinkedIn**: [Rithwik Asta](https://www.linkedin.com/in/rithvik-chaitanya-25615116b)
-- **Twitter**: [Asta_Meliodas](https://www.x.com/Asta_Meliodas)
-- **GitHub**: [github.com/rithwikasta](https://github.com/Rithwik09)
-
----
-
-> "First, solve the problem. Then, bake the code." – John Johnson (But honestly, I solve it while "baking" it anyway 😉)
-
----
-
-## 👀 P.S.
-
-If you're still reading, you're sweet! Let's cook up something amazing together! 
-
-**Gmail**: rithwik.chaithu.09@gmail.com
 
