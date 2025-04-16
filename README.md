@@ -39,7 +39,21 @@ Here are some ideas to get you started:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rithwik09&color=blue)
 
 
+
+
+
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rithwik09&theme=tokyo-night" alt="GitHub Activity Graph">
+
+
+
+### 🧁 Tech Stack
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 I bake high-performance, elegant websites with **Next.js** and create backend goodness using **Node.js** and **Express.js**. I integrate **Passport.js** to make sure only those with the right "recipe" can access the goodies! 🍪
