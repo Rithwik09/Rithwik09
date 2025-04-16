@@ -52,7 +52,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rithwik09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rithwik09&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithwik09&bg_color=1a1b27&color=9e9e9e&line=5cdcf7&point=f5f5f5&area=true&hide_border=true)
 
 ---
 
@@ -67,7 +67,6 @@
 
 ## 📫 Let's Connect
 
-- [🌐 Portfolio](#) *(Coming soon, smells amazing already!)*
 - [💼 LinkedIn](https://www.linkedin.com/in/rithvik-chaitanya-25615116b)
 - [🐦 Twitter/X](https://www.x.com/Asta_Meliodas)
 - [📬 Gmail](mailto:rithwik.chaithu.09@gmail.com)
