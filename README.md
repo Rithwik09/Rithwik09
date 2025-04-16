@@ -28,6 +28,20 @@ Here are some ideas to get you started:
 
 ![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithwik09&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithwik09&layout=compact&theme=tokyonight)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithwik09&theme=tokyonight)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rithwik09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rithwik09&color=blue)
+
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rithwik09&theme=tokyo-night" alt="GitHub Activity Graph">
+
+
 I bake high-performance, elegant websites with **Next.js** and create backend goodness using **Node.js** and **Express.js**. I integrate **Passport.js** to make sure only those with the right "recipe" can access the goodies! 🍪
 
 When I'm not coding (which is as rare as a cake without frosting), you'll probably find me leveling up my skills, diving into new frameworks, or brainstorming my next digital masterpiece.
