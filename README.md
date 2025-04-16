@@ -59,9 +59,9 @@
 ## 🍰 Featured Projects
 
 - 🔐 [Auth Wizard](https://github.com/Rithwik09/auth-wizard) – Passport.js authentication boilerplate
-- 🤖 [AI ChatBot]([https://github.com/Rithwik09/ai-chatbot-demo](https://github.com/Rithwik09/Pg-Vector)) – OpenAI SDK-powered support assistant
-- 📊 [ML Paper Analyzer]([https://github.com/Rithwik09/exam-paper-ml](https://github.com/Rithwik09/Paper-Analysis)) – Banking exam analyzer using ML
-- 💬 [Realtime Support Chat]([https://github.com/Rithwik09/realtime-chat-support](https://github.com/Rithwik09/Chat-Firebase)) – Firebase-powered customer chat app
+- 🤖 [AI ChatBot](https://github.com/Rithwik09/Pg-Vector) – OpenAI SDK-powered support assistant
+- 📊 [ML Paper Analyzer](https://github.com/Rithwik09/Paper-Analysis)) – Banking exam analyzer using ML
+- 💬 [Realtime Support Chat](https://github.com/Rithwik09/Chat-Firebase)) – Firebase-powered customer chat app
 
 ---
 
