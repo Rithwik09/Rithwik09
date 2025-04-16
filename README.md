@@ -1,18 +1,3 @@
-<!--
-**Rithwik09/Rithwik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 🏁 Welcome to My Bakery of Code! 🍰
 
 ### Hi, I'm Rithwik — a master baker, but instead of dough, I work with code! 👨‍🍳✨
@@ -25,41 +10,15 @@ Here are some ideas to get you started:
 ---
 
 ## 💡 About Me
-
-![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithwik09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithwik09&layout=compact&theme=tokyonight)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithwik09&theme=tokyonight)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rithwik09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Rithwik09&color=blue)
-
-
-
-
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rithwik09&theme=tokyo-night" alt="GitHub Activity Graph">
-
-
-
-### 🧁 Tech Stack
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
 I bake high-performance, elegant websites with **Next.js** and create backend goodness using **Node.js** and **Express.js**. I integrate **Passport.js** to make sure only those with the right "recipe" can access the goodies! 🍪
 
 When I'm not coding (which is as rare as a cake without frosting), you'll probably find me leveling up my skills, diving into new frameworks, or brainstorming my next digital masterpiece.
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithwik09&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rithwik09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rithwik09&color=blue)
 ---
 
 ## 💼 My Baking Superpowers Include:
@@ -92,6 +51,22 @@ When I'm not coding (which is as rare as a cake without frosting), you'll probab
 - **Prisma** – Shaping data models with the precision of a cake decorator. 🍒
 - **Apollo Server** – Crafting GraphQL APIs with the finesse of a chocolatier. 🍩
 - **Docker** – Packing apps like neatly boxed macarons. 🍯
+
+---
+
+### 🧁 Tech Stack
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithwik09&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithwik09&layout=compact&theme=tokyonight)
 
 ---
 
