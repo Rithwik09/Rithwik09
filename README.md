@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## 💡 About Me
 
+![Rithwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithwik09&show_icons=true&theme=tokyonight)
+
 I bake high-performance, elegant websites with **Next.js** and create backend goodness using **Node.js** and **Express.js**. I integrate **Passport.js** to make sure only those with the right "recipe" can access the goodies! 🍪
 
 When I'm not coding (which is as rare as a cake without frosting), you'll probably find me leveling up my skills, diving into new frameworks, or brainstorming my next digital masterpiece.
