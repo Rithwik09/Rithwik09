@@ -75,7 +75,6 @@ When I'm not coding (which is as rare as a cake without frosting), you'll probab
 - **LinkedIn**: [Rithwik Asta](https://www.linkedin.com/in/rithvik-chaitanya-25615116b)
 - **Twitter**: [Asta_Meliodas](https://www.x.com/Asta_Meliodas)
 - **GitHub**: [github.com/rithwikasta](https://github.com/Rithwik09)
-- **Portfolio**: Coming soon (stay tuned for something sweet!)
 
 ---
 
