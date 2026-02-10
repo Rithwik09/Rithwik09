@@ -1,6 +1,5 @@
-# 🏁 Welcome to My Bakery of Code! 🍰
 
-### Hi, I'm Rithwik — a master baker, but instead of dough, I knead code into delightful digital treats! 👨‍🍳✨
+### Hi, I'm Rithwik — A FullStack Developer
 
 ---
 
